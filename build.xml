@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project name="faclib-php-utils" default="phpab" basedir=".">
+    <target name="phpab">
+        <exec executable="phpab">
+            <arg value="--output" />
+            <arg path="src/__autoload.php" />
+            <arg path="src" />
+        </exec>
+    </target>
+</project>
