@@ -1,5 +1,5 @@
 {
-    "name": "faclib/php-utils",
+    "name": "php-utils/php-utils",
     "description": "PHP Utils",
     "license": "MIT",
     "require": {
