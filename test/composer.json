@@ -19,6 +19,7 @@
         "php": ">=5.3.0",
         "mustangostang/spyc": "0.5.*",
         "pimple/pimple": "1.*",
-        "openwall/phpass": "dev-master"
+        "openwall/phpass": "dev-master",
+        "hautelook/phpass": "dev-master"
     }
 }

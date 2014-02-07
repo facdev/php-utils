@@ -11,7 +11,6 @@ spl_autoload_register(
                 'cdatetime' => '/CDateTime.php',
                 'cjavascript' => '/CJavaScript.php',
                 'cjson' => '/CJSON.php',
-                'cobjectcollection' => '/CObjectCollection.php',
                 'cvardumper' => '/CVarDumper.php',
                 'passwordhash' => '/PasswordHash.php',
                 'pimple' => '/Pimple.php',
