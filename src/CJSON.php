@@ -491,7 +491,7 @@ class CJSON
                             $obj = array();
                         } else {
                             $stk = array(self::JSON_IN_OBJ);
-                            $obj = new stdClass();
+                            $obj = new \stdClass();
                         }
                     }
 
