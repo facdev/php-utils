@@ -12,9 +12,7 @@ spl_autoload_register(
                 'cjavascript' => '/CJavaScript.php',
                 'cjson' => '/CJSON.php',
                 'cvardumper' => '/CVarDumper.php',
-                'passwordhash' => '/PasswordHash.php',
-                'pimple' => '/Pimple.php',
-                'spyc' => '/Spyc.php'
+                'passwordhash' => '/PasswordHash.php'
             );
         }
         $cn = strtolower($class);
