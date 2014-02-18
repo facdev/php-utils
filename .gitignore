@@ -1,3 +1,5 @@
 /nbproject
+/test
+!/test/composer.json
 composer.lock
 vendor
